@@ -122,6 +122,8 @@ Both processes run simultaneously using multithreading.
 ## Code and Results
 
 - Source code and project results are included in this GitHub repository.
+- `code/`: Sensor control and main integration code
+- `result/`: System operation results (display screen output and user-facing view)
 
 ---
 
